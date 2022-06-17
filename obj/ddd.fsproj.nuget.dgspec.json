@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nhat.hoangvan\\Documents\\ncc\\vv\\ddd\\test-fsharp\\ddd.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nhat.hoangvan\\Documents\\ncc\\vv\\ddd\\test-fsharp\\ddd.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nhat.hoangvan\\Documents\\ncc\\vv\\ddd\\test-fsharp\\ddd.fsproj",
+        "projectName": "ddd",
+        "projectPath": "C:\\Users\\nhat.hoangvan\\Documents\\ncc\\vv\\ddd\\test-fsharp\\ddd.fsproj",
+        "packagesPath": "C:\\Users\\nhat.hoangvan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nhat.hoangvan\\Documents\\ncc\\vv\\ddd\\test-fsharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nhat.hoangvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\6.0.301\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.5, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
