@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rokrZCnT+O7oXHkWAEBx0CxbmRuwEbURFNZ1gBGZ/CTAV9Gq/nffsnPebRUfyaU3m8vznn2clUXvj2CqTu/qBA==",
+  "dgSpecHash": "2UZi7mGMMMwvApox+RS3XK6hbpJJ/AqS9IBIw2mjERKKkFhBc6wrIqfPwFdLUkAZBdbDfjr0aaVyWXhzpxLI0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nhat.hoangvan\\Documents\\ncc\\vv\\ddd\\test-fsharp\\ddd.fsproj",
+  "projectFilePath": "/media/Storage/ncc/ddd/fsharp/ddd.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nhat.hoangvan\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+    "/home/thinkpad1/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/thinkpad1/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
   ],
   "logs": []
 }
